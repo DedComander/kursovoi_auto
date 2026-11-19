@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+backend/venv/
+.venv/
+
+# Секреты
+backend/.db_password
+.env
+.env.*
+
+# Android / IDE
+android/.idea/
+*.iml
+.gradle/
+build/
+local.properties
+captures/
+
+# Архивы и системный мусор
+*.zip
+.DS_Store
+Thumbs.db
